@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# Ordered List
+1. One 
+1. Two
+
+# Unordered List
+* This is one
+* This is two
+  * Sub two
